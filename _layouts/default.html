@@ -1,12 +1,12 @@
 <!doctype html>
 <html>
   <head>
-    <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/styles.scss' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   </head>
   <body>
+    {% include navigation.html %}
     {{ content }}
   </body>
 </html>
