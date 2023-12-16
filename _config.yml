@@ -33,6 +33,7 @@ url: "https://0xkate.github.io" # the base hostname & protocol for your site, e.
 theme: minima
 plugins:
  - jekyll-timeago
+ - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
