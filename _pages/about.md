@@ -5,4 +5,4 @@ permalink: /about/
 ---
 # About page
 
-This page tells you a little bit about me.
+This page tells a little about the website project.
